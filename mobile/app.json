@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Digitory Founder",
+    "slug": "digitory-founder",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.digitory.founder"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.digitory.founder"
+    },
+    "plugins": [
+      "expo-notifications"
+    ]
+  }
+}
